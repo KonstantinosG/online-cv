@@ -55,27 +55,12 @@ career-profile:
 education:
     - degree: Undergraduate Student
       university: Ionian University
-      time: 2013 -
+      time: 2013 - Present
       details: |
-         As of April 2019, I am under the development of my thesis. The theme is Algorithm Implementation on Structural Health Assessment using a Wireless Sensor Network. The main goal of the system is to collect vibration data from many different locations in a building and compare them to determine its health.
+        As of April 2019, I am under the development of my thesis. The theme is Algorithm Implementation on 
+        Structural Health Assessment using a Wireless Sensor Network. The main goal of the system is to collect 
+        vibration data from many different locations in a building and compare them to determine its health.
          
-
-          - Bullet point
-          - Bullet point
-
-#     - degree: BSc in Applied Mathematics
-#       university: Bristol University
-#       time: 2007 - 2011
-#       details: |
-#         Describe your study here lorem ipsum dolor sit amet, consectetuer
-#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-#         sociis natoque penatibus et magnis dis parturient montes, nascetur
-#         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-#         pretium quis, sem.
-
-#           - Bullet point
-#           - Bullet point
-
 
 
 
@@ -93,18 +78,24 @@ projects:
         tagline: "Vluntary work"
 
 experiences:
-    - role: Pilot Wireless Sensor Network for Synchronized Monitoring of Climatic and Soil Parameters in Olive Groveσ
+    - role: Pilot Wireless Sensor Network for Synchronized Monitoring of Climatic and Soil Parameters in Olive Groves
       time: 2019
       company: Ionia University
       details: |
-        In this project I had the chance to learn how to use the Arduino prototyping platform. My main job was to code the Arduino board, solder and assemble the sensors that connected on the board.
+        In this project I had the chance to learn how to use the Arduino prototyping platform. My main job was to code
+        the Arduino board, solder and assemble the sensors that connected on the board.
         
     - role: Marketing and Social Media Manager on Together We Dance in Pelekas
       time: 2018
       company:
       details: |
         
-
+    - role: App Development - Personal Side-Project
+      time: 2015 - Present
+      company:
+      details: |
+        This is a project I started my self since I wanted to learn how to create iOS applications. I have been developping
+        it for three years (2015 - 2018) and it is a puzzle game.
           
           
 
