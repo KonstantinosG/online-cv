@@ -7,22 +7,22 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Konstantinos Bezas
+    tagline: Ionian University - Undergraduate Student
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
+    email: p13beza@ionio.gr
     phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+#     website: blog.webjeda.com #do not add http://
+#     linkedin: alandoe
+    github: KontantinosG
+#     gitlab:
+#     bitbucket:
+#     twitter: '@webjeda'
+#     stack-overflow: # Number/Username, e.g. 123456/alandoe
+#     codewars:
+#     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
