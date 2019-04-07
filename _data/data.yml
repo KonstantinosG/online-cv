@@ -92,14 +92,38 @@ projects:
         link: "#"
         tagline: "Vluntary work"
 
-
+experiences:
+    - role: Pilot Wireless Sensor Network for Synchronized Monitoring of Climatic and Soil Parameters in Olive Groveσ
+      time: 2019
+      company: Ionia University
+      details: |
+        In this project I had the chance to learn how to use the Arduino prototyping platform. My main job was to code the Arduino board, solder and assemble the sensors that connected on the board.
+        
+    - role: Marketing and Social Media Manager on Together We Dance in Pelekas
+      time: 2018
+      company:
+      details: |
+        
+    - role: UI Developer
+      time: 2012 - 2014
+      company: Amazon, London
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+          
+          
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: C
-        level: 90%
+        level: 95%
         
       - name: Swift
         level: 70%
